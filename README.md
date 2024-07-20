@@ -18,13 +18,13 @@ This repository aims to serve as a structured guide for front-end developers pre
 
 ## Roadmap
 
-### HTML
+### HTML ([click here](./HTML.md))
 
 - Layout Structures
 - Semantic Elements
 - Web Workers
 - Manifest File
-- Critical Path
+- Critical Rendering Path
 
 ### CSS
 
