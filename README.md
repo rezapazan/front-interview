@@ -33,8 +33,10 @@ This repository aims to serve as a structured guide for front-end developers pre
 
 [Go To File](./CSS.md)
 
+- Box Model
 - Flex vs Grid
 - Positions
+- z-index
 - Hamburger Menu Animation Scenario
 - Preprocessor
 - UI Libraries / CSS Frameworks
