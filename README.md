@@ -6,6 +6,7 @@ Welcome to the Front-End Interview Questions Roadmap repository! This repo is de
 
 - [Introduction](#introduction)
 - [Roadmap](#roadmap)
+  - [HTML](#html)
   - [CSS](#css)
   - [JavaScript](#javascript)
   - [React](#react)
@@ -18,7 +19,9 @@ This repository aims to serve as a structured guide for front-end developers pre
 
 ## Roadmap
 
-### HTML ([click here](./HTML.md))
+### HTML
+
+[Go To File](./HTML.md)
 
 - Layout Structures
 - Semantic Elements
