@@ -31,6 +31,8 @@ This repository aims to serve as a structured guide for front-end developers pre
 
 ### CSS
 
+[Go To File](./CSS.md)
+
 - Flex vs Grid
 - Positions
 - Hamburger Menu Animation Scenario
@@ -38,6 +40,8 @@ This repository aims to serve as a structured guide for front-end developers pre
 - UI Libraries / CSS Frameworks
 
 ### JavaScript
+
+[Go To File](./JS.md)
 
 - Let vs Var vs Const
 - Datatype
@@ -52,6 +56,8 @@ This repository aims to serve as a structured guide for front-end developers pre
 
 ### React
 
+[Go To File](./React.md)
+
 - Functional Programming & Hooks (useEffect, useRef, useMemo, etc.)
 - State & Props
 - Component Life Cycle
@@ -59,12 +65,16 @@ This repository aims to serve as a structured guide for front-end developers pre
 
 ### Next.js
 
+[Go To File](./Nextjs.md)
+
 - What is
 - SSR vs SSG vs CSR vs ISR
 - Middlewares
 - File Convention
 
 ### Team Skills
+
+[Go To File](./Team%20Skills.md)
 
 - Git & Project Management
 - Asset Optimization
