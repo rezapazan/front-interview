@@ -69,6 +69,7 @@ This repository aims to serve as a structured guide for front-end developers pre
 - Functional Programming & Hooks (useEffect, useRef, useMemo, etc.)
 - State & Props
 - Component Life Cycle
+- Higher Order Components (HOC)
 - Rerenders
 
 ### Next.js
