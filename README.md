@@ -77,8 +77,8 @@ This repository aims to serve as a structured guide for front-end developers pre
 
 - What is
 - SSR vs SSG vs CSR vs ISR
-- Middlewares
 - File Convention
+- Middlewares
 
 ### Team Skills
 
