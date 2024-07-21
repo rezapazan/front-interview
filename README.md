@@ -9,6 +9,7 @@ Welcome to the Front-End Interview Questions Roadmap repository! This repo is de
   - [HTML](#html)
   - [CSS](#css)
   - [JavaScript](#javascript)
+  - [TypeSCript](#typescript)
   - [React](#react)
   - [Next.js](#nextjs)
   - [Team Skills](#team-skills)
@@ -45,16 +46,21 @@ This repository aims to serve as a structured guide for front-end developers pre
 
 [Go To File](./JS.md)
 
+- Data types
 - Let vs Var vs Const
-- Datatype
 - Hoisting
 - Closure / Scope
 - Event Loop
 - **_This_** Keyword
-- Deep copy vs Shallow Copy
+- Deep copy vs Shallow Copy (Cloning)
+- Temporal Dead Zone (TDM)
+- Object Prototypes
 - Design Patterns
 - Tree Shaking
-- TypeScript
+
+### TypeScript
+
+[Go To File](./TS.md)
 
 ### React
 
